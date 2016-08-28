@@ -3,7 +3,7 @@
 ![img](https://raw.githubusercontent.com/flouthoc/Gradbar/master/gradbar.gif)
 
 <hr>
-This is a simple implementation of ui gradients on android Actionbar. <strong> You liked it ? :D can you star it ? </strong>
+This is a simple implementation of ui gradients on android Actionbar. <strong> You liked it ? :smile: can you star :star: it ? </strong>
 
 
 <h4>Usage</h4>
